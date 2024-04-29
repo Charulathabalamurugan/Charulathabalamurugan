@@ -1,7 +1,7 @@
 ### Greetings! 👋
 
 <!--
-🎓 Currently honing my craft at CIT, immersing myself in the dynamic realm of Information Technology. Dedicated to mastering frontend development with Spotknack, striving to create seamless user experiences.
+🎓 Currently sharpening my skills at CIT, diving deep into the world of Information Technology. Dedicated to mastering frontend development with Spotknack, striving to create seamless user experiences.
 
 🔍 Always hungry for knowledge and eager to explore the latest advancements in technology. From AI to blockchain, I'm fascinated by how innovation shapes our digital landscape.
 
