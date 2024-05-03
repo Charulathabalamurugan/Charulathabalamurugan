@@ -1,6 +1,5 @@
 <h1 align="center">Greetings!!👋, I'm Charulatha Balamurugan</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
-<img align="center" alt="Coding" width="500" src="[https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/](https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46)">
+<img align="center"  width="500" src="[https://cdn.vectorstock.com/i/preview-1x/42/16/woman-programmer-software-developer-working-vector-37874216.jpg]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charulathabalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="charulathabalamurugan" /> </p>
 
