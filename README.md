@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🎓 Currently sharpening my skills at CIT, diving deep into the world of Information Technology. Dedicated to mastering frontend development with Spotknack, striving to create seamless user experiences.<br><br>🔍 Always hungry for knowledge and eager to explore the latest advancements in technology. From AI to blockchain, I'm fascinated by how innovation shapes our digital landscape.<br><br>📚 When I'm not coding, you'll find me lost in the pages of a good book or binge-watching the latest series. A firm believer in the power of storytelling and its intersection with technology.<br><br>💡 Seeking opportunities to collaborate and contribute to exciting projects. Let's connect and discuss the future of tech!<br><br>📫 How to reach me **charulathabalamurugan19@gmail.com**</p>
+<p align="left">🎓 Currently sharpening my skills at CIT, diving deep into the world of Information Technology. Dedicated to mastering frontend development with Spotknack, striving to create seamless user experiences.<br><br>🔍 Always hungry for knowledge and eager to explore the latest advancements in technology. From AI to blockchain, I'm fascinated by how innovation shapes our digital landscape.<br><br>📚 When I'm not coding, you'll find me lost in the pages of a good book or binge-watching the latest series. A firm believer in the power of storytelling and its intersection with technology.<br><br>💡 Seeking opportunities to collaborate and contribute to exciting projects. Let's connect and discuss the future of tech!<br><br>📫 How to reach me:charulathabalamurugan19@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charulatha-balamurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charulatha-balamurugan" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/charulatha-balamurugan-088146281/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charulatha-balamurugan" height="30" width="40" /></a>
 <a href="https://instagram.com/___.chaaru.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.chaaru.__" height="30" width="40" /></a>
 </p>
 
