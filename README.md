@@ -1,4 +1,4 @@
-<h1 align="center">Greetings!!👋, I'm Charulatha Balamurugan</h1>
+<h1 align="center">Greetings!!✨, I'm Charulatha Balamurugan</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charulathabalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="charulathabalamurugan" /> </p>
@@ -7,7 +7,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 <img align="right"  width="500" src="https://cdn.vectorstock.com/i/preview-1x/42/16/woman-programmer-software-developer-working-vector-37874216.jpg">
 <p align="left">🎓 Currently sharpening my skills at CIT, diving deep into the world of Information Technology. Dedicated to mastering frontend development with Spotknack, striving to create seamless user experiences.<br><br>🔍 Always hungry for knowledge and eager to explore the latest advancements in technology. From AI to blockchain, I'm fascinated by how innovation shapes our digital landscape.<br><br>📚 When I'm not coding, you'll find me lost in the pages of a good book or binge-watching the latest series. A firm believer in the power of storytelling and its intersection with technology.<br><br>💡 Seeking opportunities to collaborate and contribute to exciting projects. Let's connect and discuss the future of tech!<br><br>📫 How to reach me:charulathabalamurugan19@gmail.com</p>
 
